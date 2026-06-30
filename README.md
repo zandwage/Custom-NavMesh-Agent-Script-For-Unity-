@@ -1,6 +1,8 @@
 # Custom-NavMesh-Agent-Script-For-Unity-
 I got tired of my standard Nav Mesh Agents steering around each other like cars so I made my own custom solution with custom obstacle avoidance. 
 
+https://github.com/user-attachments/assets/d71c81c4-cea2-4eb3-9d27-705c7b1fb51d
+
 ## Features:
   - Simple layer-based obstacle avoidance (NPC's turn around each other)
   - Custom movement with Character Controller
