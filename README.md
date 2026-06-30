@@ -5,6 +5,7 @@ I got tired of my standard Nav Mesh Agents steering around each other like cars 
   - Simple layer-based obstacle avoidance (NPC's turn around each other)
   - Custom movement with Character Controller
   - Path regeneration when stuck, not facing direction to path corner, or far away from path, or if the NPC hasn't moved in a while
+  - Repository includes an example NPCBehavior script utilizing the NPCAgent script with an NPC state machine
 
 ## Usage:
 This script requires a Character Controller to function. You also need a baked NavMesh Surface in your scene to use it. 
